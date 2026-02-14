@@ -24,6 +24,7 @@ Execução ocorre diretamente no terminal/console.
 ```
 sistema-login-py/
 │
+├─ preview.png
 └─ login_simples.py
 ```
 
@@ -59,4 +60,5 @@ python login_simples.py
 ## Autor
 
 | [<img src="https://github.com/DevLabatut.png" width=115><br><sub>DevLabatut</sub>](https://github.com/DevLabatut) |
+
 | :---------------------------------------------------------------------------------------------------------------: |
