@@ -4,7 +4,7 @@ Projeto simples de **sistema de login em terminal** desenvolvido em **Python**. 
 
 ## Preview
 
-Execução ocorre diretamente no terminal/console.
+<img src="preview.png" width="400">
 
 ## Funcionalidades
 
@@ -62,3 +62,4 @@ python login_simples.py
 | [<img src="https://github.com/DevLabatut.png" width=115><br><sub>DevLabatut</sub>](https://github.com/DevLabatut) |
 
 | :---------------------------------------------------------------------------------------------------------------: |
+
